@@ -1,0 +1,48 @@
+.header{
+    background-color: lightblue;
+}
+.header img{
+height: auto;
+width: 100px;
+}
+ul{
+
+}
+ul li{
+display: inline-block;
+}
+ul li a{
+color: black;
+padding: 20px 10px;
+text-decoration: none;
+cursor: all-scroll;
+}
+.banner{
+    background-image: url(download.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 1300px;
+    background-color: rgb(46, 158, 196);
+}
+.about{
+background-color: lightblue;
+}
+.service{
+    background-color: lightblue;
+}
+.content{
+    background-color: lightblue;
+}
+.n{
+    height: 200px;
+    width: 200px;
+}
+.content ul{
+    margin: 3px;
+    border: 3px solid black;
+    padding: 3px;
+}
+.body{
+border: 3 double navy;
+}
